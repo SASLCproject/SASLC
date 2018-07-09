@@ -1,4 +1,4 @@
-# saslc
+# About SASLC
 The Sources of Anglo-Saxon Literary Culture is a longstanding project to map the sources that influenced the literary culture of Anglo-Saxon England. It aims at a comprehensive, descriptive list of all authors and works known in Britain between c. 500 and c. 1100 CE. SASLC has been re-envisioned for a digital world. Originally conceived of as a traditional encyclopedic resource, with entries published from A to Z, the potential of the multi-media environment provided by Amsterdam University Press has provided SASLC with a new publication model of print and online materials.
 
 You are using an online repository available to the community of scholars who work on the sources of Anglo-Saxon literary culture to share ideas and work related to our common interest.
