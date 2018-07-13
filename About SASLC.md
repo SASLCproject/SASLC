@@ -9,30 +9,30 @@ This repository especially represents the materials available to the public whil
 
 Materials in this repository are available under under an Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License.
 
-# Editorial Board
+## Editorial Board
 
-# Frederick M. Biggs
-Professor of English and Medieval Studies at the University of Connecticut, Storrs. He has published related articles on several themes in Old and Middle English literature, most notably Ælfric’s use of apocrypha, succession in Beowulf, and Chaucer’s use of sources. He edited The Apocrypha (Kalamazoo, 2007) for SASLC and has, with George Hardin Brown, recently completed a first volume on Bede (Amsterdam, 2017). His study, Chaucer’s Decameron and the Origin of the Canterbury Tales (Cambridge, 2017) will appear from Brewer in Fall 2017.
+###### Frederick M. Biggs
+Professor of English and Medieval Studies at the University of Connecticut, Storrs. He has published related articles on several themes in Old and Middle English literature, most notably Ælfric’s use of apocrypha, succession in Beowulf, and Chaucer’s use of sources. He edited _The Apocrypha_ (Kalamazoo, 2007) for SASLC and has, with George Hardin Brown, recently completed a first volume on _Bede_ (Amsterdam, 2017). His study _Chaucer’s Decameron and the Origin of the Canterbury Tales_ (Cambridge, 2017) appeared from Brewer in Fall 2017.
 
-# Stephanie Clark
-Assistant Professor of English, University of Oregon. Her research focuses on prayer and theories of exchange in Anglo-Saxon literature, and she also studies historical theology. She has published two articles on the Old English poem Guthlac A. Her book, Compelling God: Theories of Prayer in Anglo-Saxon England is forthcoming at University of Toronto Press in October 2017.
+###### Stephanie Clark
+Assistant Professor of English, University of Oregon. Her research focuses on prayer and theories of exchange in Anglo-Saxon literature, and she also studies historical theology. She has published two articles on the Old English poem Guthlac A. Her book, _Compelling God: Theories of Prayer in Anglo-Saxon England_ was published by the University of Toronto Press in 2017.
 
-# Claudia Di Sciacca
-Associate Professor of Germanic Philology, University of Udine, Italy. Her research activity has chiefly focused on Old English homiletic and hagiographic prose and related source-studies. She is the author of //Finding the Right Words: Isidore’s// Synonyma //in Anglo-Saxon England//, Toronto Old English Series 19 (Toronto, 2008), coeditor of five books, and has published extensively in international collections of essays and journals. She is currently working on the reception and adaptation of the Vitas Patrum in Anglo-Saxon England.
+###### Claudia Di Sciacca
+Associate Professor of Germanic Philology, University of Udine, Italy. Her research activity has chiefly focused on Old English homiletic and hagiographic prose and related source-studies. She is the author of _Finding the Right Words: Isidore’s Synonyma in Anglo-Saxon England_, Toronto Old English Series 19 (Toronto, 2008), coeditor of five books, and has published extensively in international collections of essays and journals. She is currently working on the reception and adaptation of the _Vitas Patrum_ in Anglo-Saxon England.
 
-# Brandon W. Hawk
-Assistant Professor of English, Rhode Island College. Brandon's fields of expertise are Old and Middle English, history of the English language, digital humanities, the Bible as/in literature, translation, and the history of the book. Most of his interests in research and teaching encompass what might be called transmission studies: the afterlives of texts, including circulation, translations, adaptations, and re-presentations in various cultures and media. His first book, Preaching Apocrypha in Anglo-Saxon England, was published by the University of Toronto Press in 2018. He is also author of a full-length introduction, translation, and commentary for the apocryphal Gospel of Pseudo-Matthew, to be published by Wipf and Stock Publishers in the Early Christian Apocrypha Series.
+###### Brandon W. Hawk
+Assistant Professor of English, Rhode Island College. Brandon's fields of expertise are Old and Middle English, history of the English language, digital humanities, the Bible as/in literature, translation, and the history of the book. Most of his interests in research and teaching encompass what might be called transmission studies: the afterlives of texts, including circulation, translations, adaptations, and re-presentations in various cultures and media. His book _Preaching Apocrypha in Anglo-Saxon England_ was published by the University of Toronto Press in 2018. He is also author of a full-length introduction, translation, and commentary for the apocryphal _Gospel of Pseudo-Matthew_, to be published by Wipf and Stock Publishers in the Early Christian Apocrypha Series.
 
-# Christine Rauer
-Senior Lecturer in Medieval English Literature, University of St. Andrews. Christine is interested in intertextuality and the literary history of Anglo-Saxon England (particularly ninth-century literature, the Old English Martyrology and Beowulf). Publications include source studies on Beowulf (Cambridge, 2000), an edition of the Old English Martyrology (Cambridge, 2013), and contributions to the electronic sourcing project Fontes Anglo-Saxonici. Her current projects include a new monograph on source references made by Old English and Anglo-Latin authors, and a survey of lost Anglo-Saxon hagiography.
+###### Christine Rauer
+Senior Lecturer in Medieval English Literature, University of St. Andrews. Christine is interested in intertextuality and the literary history of Anglo-Saxon England (particularly ninth-century literature, the _Old English Martyrology_ and _Beowulf_). Publications include source studies on _Beowulf_ (Cambridge, 2000), an edition of the _Old English Martyrology_ (Cambridge, 2013), and contributions to the electronic sourcing project _Fontes Anglo-Saxonici_. Her current projects include a new monograph on source references made by Old English and Anglo-Latin authors, and a survey of lost Anglo-Saxon hagiography.
 
-# Benjamin Weber
-Assistant Professor of English, Wheaton College. Ben works on the medieval reception of Classical and Late Antique culture, with an emphasis on the Anglo-Saxon period and a particular interest in practices of reading and translation. Most recently, he has focused on the reception of Augustine and ideas of the Liberal Arts in the early Middle Ages. He is currently at work on a book entitled Woven in Words: Style, Translation and Culture in Anglo-Saxon England, and has published articles in JEGP and Neophilologus.
+###### Benjamin Weber
+Assistant Professor of English, Wheaton College. Ben works on the medieval reception of Classical and Late Antique culture, with an emphasis on the Anglo-Saxon period and a particular interest in practices of reading and translation. Most recently, he has focused on the reception of Augustine and ideas of the Liberal Arts in the early Middle Ages. He is currently at work on a book entitled _Woven in Words: Style, Translation and Culture in Anglo-Saxon England_, and has published articles in _JEGP_ and _Neophilologus_.
 
-# Charles D. Wright
-Professor of English and Medieval Studies at the University of Illinois at Urbana-Champaign. He works on Old English poetry and prose, especially anonymous homilies, Hiberno-Latin literature, and the transmission of biblical apocrypha in the Middle Ages. He is author of The Irish Tradition in Old English Literature (Cambridge, 1993) and most recently of Manuscripts in Germany and Austria: Anglo-Saxon Manuscripts in Microfiche Facsimile (Tempe, 2016). He is currently preparing an edition of The Apocalypse of Thomas for Corpus Christianorum, Series Apocryphorum.
+###### Charles D. Wright
+Professor of English and Medieval Studies at the University of Illinois at Urbana-Champaign. He works on Old English poetry and prose, especially anonymous homilies, Hiberno-Latin literature, and the transmission of biblical apocrypha in the Middle Ages. He is author of _The Irish Tradition in Old English Literature_ (Cambridge, 1993) and most recently of _Manuscripts in Germany and Austria: Anglo-Saxon Manuscripts in Microfiche Facsimile_ (Tempe, 2016). He is currently preparing an edition of _The Apocalypse of Thomas_ for Corpus Christianorum, Series Apocryphorum.
 
-# Duties of the Editorial Board
+###### Duties of the Editorial Board
 The Editorial Board of the SASLC project will shape the mission and vision of the project by, in part, fulfilling the following duties:
 1. Review draft entries on the Wiki so they can be published in the public area.
 2. Review other changes to the Wiki.
