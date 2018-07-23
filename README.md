@@ -34,12 +34,12 @@ Professor of English and Medieval Studies at the University of Illinois at Urban
 
 ###### Duties of the Editorial Board
 The Editorial Board of the SASLC project will shape the mission and vision of the project by, in part, fulfilling the following duties:
-1. Review draft entries on the Wiki so they can be published in the public area.
-2. Review other changes to the Wiki.
+1. Review draft entries on the website so they can be published in the public area.
+2. Review other changes to the website.
 3. Approve plans for future print volumes.
 4. Share, when appropriate, in the work of editing print volumes.
-5. Oversee the creation of the database.
-6. Approve additions to the database.
+5. Oversee the creation of the online database.
+6. Approve additions to the online database.
 7. Solicit new contributions to the project.
 8. Co-write grants in support of the project.
 9. Attend, whenever possible, the annual meetings of the project either in person or virtually.
