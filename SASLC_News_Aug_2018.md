@@ -1,6 +1,6 @@
 # Important News Concerning the Sources of Anglo-Saxon Literary Culture (SASLC) Project Online
 
-For the past few years, the online presence for the Sources of Anglo-Saxon Literary Culture (SASLC) has primarily been on the Wikispaces site developed with the help of Amsterdam University Press. On that site, the public could find information about the project and open-access files of previously published entries and books (such as the _Trial Version_ and ). Members who created accounts could access further parts of the site, such as information for contributors and drafts of works in progress.
+For the past few years, the online presence for the Sources of Anglo-Saxon Literary Culture (SASLC) has primarily been on the Wikispaces site developed with the help of Amsterdam University Press. On that site, the public could find information about the project and open-access files of previously published entries and books (such as the _Trial Version_, _Acta Sanctorum_, and _Apocrypha_ volumes). Members who created accounts could access further parts of the site, such as information for contributors and drafts of works in progress.
 
 Unfortunately, Wikispaces has decided to shutter its platform, and all accounts are being disabled by the end of this year. The SASLC site has recently been disabled as part of this process.
 
