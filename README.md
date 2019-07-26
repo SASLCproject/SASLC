@@ -11,9 +11,6 @@ Materials in this repository are available under under an Attribution-NonCommerc
 
 ## Editorial Board
 
-###### Frederick M. Biggs
-Professor of English and Medieval Studies at the University of Connecticut, Storrs. He has published related articles on several themes in Old and Middle English literature, most notably Ælfric’s use of apocrypha, succession in Beowulf, and Chaucer’s use of sources. He edited _The Apocrypha_ (Kalamazoo, 2007) for SASLC and has, with George Hardin Brown, recently completed two volumes on _Bede_ (Amsterdam, 2017-2018). His study _Chaucer’s Decameron and the Origin of the Canterbury Tales_ (Cambridge, 2017) appeared from Brewer in Fall 2017.
-
 ###### Stephanie Clark
 Associate Professor of English, University of Oregon. Her research focuses on prayer and theories of exchange in Anglo-Saxon literature, and she also studies historical theology. She has published two articles on the Old English poem Guthlac A. Her book _Compelling God: Theories of Prayer in Anglo-Saxon England_ was published by the University of Toronto Press in 2017.
 
@@ -21,10 +18,13 @@ Associate Professor of English, University of Oregon. Her research focuses on pr
 Associate Professor of Germanic Philology, University of Udine, Italy. Her research activity has chiefly focused on Old English homiletic and hagiographic prose and related source-studies. She is the author of _Finding the Right Words: Isidore’s Synonyma in Anglo-Saxon England_, Toronto Old English Series 19 (Toronto, 2008), coeditor of five books, and has published extensively in international collections of essays and journals. She is currently working on the reception and adaptation of the _Vitas Patrum_ in Anglo-Saxon England.
 
 ###### Brandon W. Hawk
-Assistant Professor of English, Rhode Island College. Brandon's fields of expertise are Old English, the transmission of the Bible and apocrypha, digital humanities, media studies, and the history of the book. Most of his interests in research and teaching encompass what might be called transmission studies: the afterlives of texts, including circulation, translations, adaptations, and re-presentations in various cultures and media. His book _Preaching Apocrypha in Anglo-Saxon England_ was published by the University of Toronto Press in 2018. He is also author of a full-length introduction, translation, and commentary for the apocryphal _Gospel of Pseudo-Matthew_, forthcoming in the Early Christian Apocrypha Series (Cascade).
+Assistant Professor of English, Rhode Island College. Brandon's fields of expertise are Old English, the transmission of the Bible and apocrypha, digital humanities, media studies, and the history of the book. Most of his interests in research and teaching encompass what might be called transmission studies: the afterlives of texts, including circulation, translations, adaptations, and re-presentations in various cultures and media. His book _Preaching Apocrypha in Anglo-Saxon England_ was published by the University of Toronto Press in 2018, and his book _The Gospel of Pseudo-Matthew and the Nativity_ was published by Cascade Books in 2019.
 
 ###### Christine Rauer
 Senior Lecturer in Medieval English Literature, University of St. Andrews. Christine is interested in intertextuality and the literary history of Anglo-Saxon England (particularly ninth-century literature, the _Old English Martyrology_ and _Beowulf_). Publications include source studies on _Beowulf_ (Cambridge, 2000), an edition of the _Old English Martyrology_ (Cambridge, 2013), and contributions to the electronic sourcing project _Fontes Anglo-Saxonici_. Her current projects include a new monograph on source references made by Old English and Anglo-Latin authors, and a survey of lost Anglo-Saxon hagiography.
+
+###### Amity Reading
+Associate Professor of English, DePauw University. Amity's primary area of specialization is Old English literature, with subspecialties in world literature, later medieval literature, and Shakespeare. She has published on Anglo-Saxon and later medieval religious poetry, including a book titled _Reading the Anglo-Saxon Self Through the Vercelli Book_, published by Peter Lang in 2018.
 
 ###### Benjamin Weber
 Assistant Professor of English, Wheaton College. Ben works on the medieval reception of Classical and Late Antique culture, with an emphasis on the Anglo-Saxon period and a particular interest in practices of reading and translation. Most recently, he has focused on the reception of Augustine and ideas of the Liberal Arts in the early Middle Ages. He is currently at work on a book entitled _Woven in Words: Style, Translation and Culture in Anglo-Saxon England_, and has published articles in _JEGP_ and _Neophilologus_.
