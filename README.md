@@ -1,5 +1,5 @@
 # About SOEALLC
-The Sources of Old English and Anglo-Latin Literary Culture, 500-1100 (formerely Sources of Anglo-Saxon Literary Culture, SASLC) is a longstanding project to map the sources that influenced the literary culture of early England. It aims at a comprehensive, descriptive list of all authors and works known in Britain between c. 500 and c. 1100 CE. SASLC has been re-envisioned for a digital world. Originally conceived of as a traditional encyclopedic resource, with entries published from A to Z, the potential of the multi-media environment provided by Amsterdam University Press has provided SASLC with a new publication model of print and online materials.
+The Sources of Old English and Anglo-Latin Literary Culture, 500-1100 (SOEALLC, formerely Sources of Anglo-Saxon Literary Culture, SASLC) is a longstanding project to map the sources that influenced the literary culture of early England. It aims at a comprehensive, descriptive list of all authors and works known in Britain between c. 500 and c. 1100 CE. SOEALLC has been re-envisioned for a digital world. Originally conceived of as a traditional encyclopedic resource, with entries published from A to Z, the potential of the multi-media environment provided by Amsterdam University Press has provided SOEALLC with a new publication model of print and online materials.
 
 You are using an online repository available to the community of scholars who work on the sources of Old English and early Anglo-Latin literary culture to share ideas and work related to our common interest.
 
@@ -30,7 +30,7 @@ Assistant Professor of English, Wheaton College. Ben works on the medieval recep
 Emeritus Professor of English and Medieval Studies at the University of Illinois at Urbana-Champaign. He works on Old English poetry and prose, especially anonymous homilies, Hiberno-Latin literature, and the transmission of biblical apocrypha in the Middle Ages. He is author of _The Irish Tradition in Old English Literature_ (Cambridge, 1993) and most recently of _Manuscripts in Germany and Austria: Anglo-Saxon Manuscripts in Microfiche Facsimile_ (Tempe, 2016). He is currently preparing an edition of _The Apocalypse of Thomas_ for Corpus Christianorum, Series Apocryphorum.
 
 ###### Duties of the Editorial Board
-The Editorial Board of the SASLC project will shape the mission and vision of the project by, in part, fulfilling the following duties:
+The Editorial Board of the SOEALLC project will shape the mission and vision of the project by, in part, fulfilling the following duties:
 1. Review draft entries on the website so they can be published in the public area.
 2. Review other changes to the website.
 3. Approve plans for future print volumes.
